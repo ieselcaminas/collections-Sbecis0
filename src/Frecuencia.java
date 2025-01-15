@@ -28,6 +28,7 @@ public class Frecuencia {
             }
         }return terminaciones;
     }
+
 }
 
 
